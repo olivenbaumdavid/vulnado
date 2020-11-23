@@ -1,4 +1,4 @@
-package com.scalesec.vulnado;
+package com.scalesec.vulnado; 
 
 import org.apache.catalina.Server;
 import java.sql.*;
